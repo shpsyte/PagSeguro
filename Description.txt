@@ -1,0 +1,8 @@
+﻿Group: Payment methods
+FriendlyName: PagSeguro
+SystemName: Payments.PagSeguro
+Version: 1.8
+SupportedVersions: 3.80
+Author: Comunidade
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.PagSeguro.dll
