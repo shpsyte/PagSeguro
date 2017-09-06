@@ -2,7 +2,7 @@
 FriendlyName: PagSeguro
 SystemName: Payments.PagSeguro
 Version: 1.8
-SupportedVersions: 3.80
-Author: Comunidade
+SupportedVersions: 3.90
+Author: José Luiz - Isco Sistemas
 DisplayOrder: 1
 FileName: Nop.Plugin.Payments.PagSeguro.dll

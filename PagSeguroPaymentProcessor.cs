@@ -39,6 +39,7 @@ namespace Nop.Plugin.Payments.PagSeguro
         private readonly ISettingService _settingService;
         private readonly ITaxService _taxService;
         private readonly IPriceCalculationService _priceCalculationService;
+        private readonly ILocalizationService _localizationService;
         private readonly ICurrencyService _currencyService;
         private readonly ICustomerService _customerService;
         private readonly CurrencySettings _currencySettings;
@@ -57,6 +58,7 @@ namespace Nop.Plugin.Payments.PagSeguro
         #region Ctor
         public PagSeguroPaymentProcessor(
             PagSeguroPaymentSettings pagSeguroPaymentSettings,
+            ILocalizationService localizationService,
             ISettingService settingService,
             ITaxService taxService,
             IPriceCalculationService priceCalculationService,
@@ -74,6 +76,7 @@ namespace Nop.Plugin.Payments.PagSeguro
             this._settingService = settingService;
             this._taxService = taxService;
             this._priceCalculationService = priceCalculationService;
+            this._localizationService = localizationService;
             this._currencyService = currencyService;
             this._customerService = customerService;
             this._currencySettings = currencySettings;
@@ -419,6 +422,17 @@ namespace Nop.Plugin.Payments.PagSeguro
         public decimal GetAdditionalHandlingFee(IList<ShoppingCartItem> cart)
         {
             return decimal.Zero;
+        }
+
+
+        /// <summary>
+        /// Gets a payment method description that will be displayed on checkout pages in the public store
+        /// </summary>
+        public string PaymentMethodDescription
+        {
+            //return description of this payment method to be display on "payment method" checkout step. good practice is to make it localizable
+            //for example, for a redirection payment method, description may be like this: "You will be redirected to PayPal site to complete the payment"
+            get { return _localizationService.GetResource("Plugins.Payment.PagSeguro.PaymentMethodDescription"); }
         }
 
         #endregion

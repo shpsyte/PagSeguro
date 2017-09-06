@@ -80,3 +80,18 @@ E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.80_Source\Presentation\Nop.We
 E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Payments.PagSeguro\obj\Debug\Nop.Plugin.Payments.PagSeguro.csprojResolveAssemblyReference.cache
 E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Payments.PagSeguro\obj\Debug\Nop.Plugin.Payments.PagSeguro.dll
 E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Payments.PagSeguro\obj\Debug\Nop.Plugin.Payments.PagSeguro.pdb
+E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PagSeguro\obj\Debug\Nop.Plugin.Payments.PagSeguro.csprojResolveAssemblyReference.cache
+E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PagSeguro\obj\Debug\Nop.Plugin.Payments.PagSeguro.dll
+E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PagSeguro\obj\Debug\Nop.Plugin.Payments.PagSeguro.pdb
+E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PagSeguro\Description.txt
+E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PagSeguro\logo.jpg
+E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PagSeguro\Views\PaymentPagSeguro\Configure.cshtml
+E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PagSeguro\Views\PaymentPagSeguro\PaymentInfo.cshtml
+E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PagSeguro\web.config
+E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PagSeguro\Configuration\PagSeguroConfig.xml
+E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PagSeguro\Nop.Plugin.Payments.PagSeguro.dll.config
+E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PagSeguro\Nop.Plugin.Payments.PagSeguro.dll
+E:\DotNet\2 - Sites & Lojas Virtuais\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PagSeguro\Nop.Plugin.Payments.PagSeguro.pdb
+C:\Users\José Luiz\OneDrive\Empresas\OpenLojas\Plugins\Fontes\3.9\Nop.Plugin.Payments.PagSeguro\obj\Debug\Nop.Plugin.Payments.PagSeguro.csprojResolveAssemblyReference.cache
+C:\Users\José Luiz\OneDrive\Empresas\OpenLojas\Plugins\Fontes\3.9\Nop.Plugin.Payments.PagSeguro\obj\Debug\Nop.Plugin.Payments.PagSeguro.dll
+C:\Users\José Luiz\OneDrive\Empresas\OpenLojas\Plugins\Fontes\3.9\Nop.Plugin.Payments.PagSeguro\obj\Debug\Nop.Plugin.Payments.PagSeguro.pdb

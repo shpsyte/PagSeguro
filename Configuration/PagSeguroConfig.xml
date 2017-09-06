@@ -60,7 +60,6 @@
     <!-- content type -->
     <FormUrlEncoded>application/x-www-form-urlencoded</FormUrlEncoded>
     <!-- encoding of the outcoming/incoming communication to/from PagSeguro API -->
-    <!-- esta bosta aqui tem que deixar-->
     <Encoding>ISO-8859-1</Encoding>
     <!-- default request timeout for call service -->
     <RequestTimeout>10000</RequestTimeout>
