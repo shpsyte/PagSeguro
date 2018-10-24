@@ -1,12 +1,11 @@
 # Plugin NopCommerce for "PagSeguro - Módulo Pagamento PagSeguro"
 
+
 This repository contains the principles and definition of the Módulo Pagamento PagSeguro
 used for E-commerce Solution: nopcommerce.com
 
 # Please check here
 https://www.nopcommerce.com/p/2682/pagamento-pelo-pagseguro.aspx
-
-![PagSeguro](https://www.nopcommerce.com/images/thumbs/0006243_400.jpeg)
 
 
 ## Módulo Pagamento PagSeguro
