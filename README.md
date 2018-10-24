@@ -3,13 +3,11 @@
 This repository contains the principles and definition of the Módulo Pagamento PagSeguro
 used for E-commerce Solution: nopcommerce.com
 
-
-[![PagSeguro](https://www.nopcommerce.com/images/thumbs/0006243_400.jpeg)](https://www.nopcommerce.com/p/2682/pagamento-pelo-pagseguro.aspx)
-
-
-
 # Please check here
 https://www.nopcommerce.com/p/2682/pagamento-pelo-pagseguro.aspx
+
+[![PagSeguro](https://www.nopcommerce.com/images/thumbs/0006243_400.jpeg)]
+
 
 ## Módulo Pagamento PagSeguro
 Group: Payment methods
