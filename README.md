@@ -6,7 +6,7 @@ used for E-commerce Solution: nopcommerce.com
 # Please check here
 https://www.nopcommerce.com/p/2682/pagamento-pelo-pagseguro.aspx
 
-[![PagSeguro](https://www.nopcommerce.com/images/thumbs/0006243_400.jpeg)]
+![PagSeguro](https://www.nopcommerce.com/images/thumbs/0006243_400.jpeg)
 
 
 ## Módulo Pagamento PagSeguro
@@ -22,13 +22,14 @@ FileName: Nop.Plugin.Payments.PagSeguro.dll
 * .Visual Studio 2017
 * .Pagseguro.dll
 
-## How to Engage, Contribute and Provide Feedback
 
+# Build With 
+* .Visual Studio 2017
+
+## How to Engage, Contribute and Provide Feedback
 You are also encouraged to start a discussion by filing an issue.
 
 
-
 ## Learning More
-
 For more information, contact me, out the joseluiz.net. It should answer any questions 
 you have not covered by the versions documentation.
